@@ -14,7 +14,7 @@ process.env.LEON_HOST = process.env.LEON_HOST || 'http://localhost'
 process.env.LEON_PORT = process.env.LEON_PORT || 1337
 const url = `${process.env.LEON_HOST}:${process.env.LEON_PORT}`
 const socket = io(url)
-
+const model = "eve"
 socket.on('connect', () => {
   socket.emit('init', 'hotword-node')
   console.log('Connected to the server')
@@ -33,7 +33,7 @@ request.get(`${url}/v1/info`)
       const models = new Models()
 
       models.add({
-        file: `${__dirname}/models/leon-${res.body.lang.short}.pmdl`,
+        file: `${__dirname}/models/${model}-${res.body.lang.short}.pmdl`,
         sensitivity: '0.5',
         hotwords: `leon-${res.body.lang.short}`
       })
