@@ -14,7 +14,7 @@ process.env.LEON_HOST = process.env.LEON_HOST || 'http://localhost'
 process.env.LEON_PORT = process.env.LEON_PORT || 1337
 const url = `${process.env.LEON_HOST}:${process.env.LEON_PORT}`
 const socket = io(url)
-const model = "eve"
+const model = 'eve'
 socket.on('connect', () => {
   socket.emit('init', 'hotword-node')
   console.log('Connected to the server')
