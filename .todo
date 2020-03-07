@@ -1,3 +1,18 @@
 Eve:
-  - Rename leon to Eve
-    - Replace the Hotword model using https://snowboy.kitt.ai/
+  Chores: 
+    Rename leon to Eve:
+      ✔ Replace the Hotword model using https://snowboy.kitt.ai/ @done(20-03-07 23:02) To be tested!
+  Features:
+    ✔ Add more small talk @high @done(20-03-07 23:01)
+    ✔ Get the weather @done(20-03-07 23:02)
+    ✔ TodoList @done(20-03-07 23:02)
+    ✔ Speech recognition @done(20-03-07 23:02) To be tested!
+    ☐ Tinder : find me a match
+    ☐ Face recognition
+    ☐ Home Automation
+    ☐ Google Stuff
+    ☐ Get Time
+    ☐ Set Reminders
+    ☐ Memorise
+    ☐ Play music
+    ☐ Check for the latest Anime stuff
