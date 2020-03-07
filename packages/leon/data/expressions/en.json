@@ -20,21 +20,6 @@
       ]
     }
   },
-	"greeting": {
-    "run": {
-      "expressions": [
-        "Hi",
-        "Hey",
-        "Hello",
-        "Good morning",
-        "Good afternoon",
-        "Good evening",
-        "What's up?",
-        "How are you?",
-        "How are you doing?"
-      ]
-    }
-  },
 	"welcome": {
     "run": {
       "expressions": [
@@ -64,17 +49,6 @@
       ]
     }
 
-  },
-	"bye": {
-    "run": {
-      "expressions": [
-        "Bye",
-        "Goodbye",
-        "Good bye",
-        "See you later",
-        "Bye bye"
-      ]
-    }
   },
   "partnerassistant": {
     "run": {
