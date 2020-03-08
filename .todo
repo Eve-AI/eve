@@ -2,7 +2,7 @@ Eve:
   Chores: 
     Rename leon to Eve:
       ✔ Replace the Hotword model using https://snowboy.kitt.ai/ @done(20-03-07 23:02) To be tested!
-    ☐ Move packages to submodules
+    ☐ Move packages to submodules @started(20-03-08 19:49)
   Features:
     ✔ Add more small talk @high @done(20-03-07 23:01)
     ✔ Get the weather @done(20-03-07 23:02)
@@ -21,7 +21,7 @@ Eve:
     ☐ Deploy brain on server
     ☐ Deploy web client
     Configure other clients:
-      ☐ Facebook/Messenger @started(20-03-07 23:04)
+      ☐ Facebook/Messenger
       ☐ SMS
       ☐ Twitter
       ☐ Slack
