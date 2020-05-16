@@ -1,0 +1,56 @@
+[submodule "packages/calendar"]
+	path = packages/calendar
+	url = https://github.com/Eve-AI/calendar-package.git
+	branch = master
+[submodule "packages/weather"]
+	path = packages/weather
+	url = https://github.com/Eve-AI/weather-package.git
+	branch = master
+[submodule "packages/videodownloader"]
+	path = packages/videodownloader
+	url = https://github.com/Eve-AI/videodownloader-package.git
+	branch = master
+[submodule "packages/network"]
+	path = packages/network
+	url = https://github.com/Eve-AI/network-package.git
+	branch = master
+[submodule "packages/agent"]
+	path = packages/agent
+	url = https://github.com/Eve-AI/agent-package.git
+	branch = master
+[submodule "packages/emotions"]
+	path = packages/emotions
+	url = https://github.com/Eve-AI/emotions-package.git
+	branch = master
+[submodule "packages/leon"]
+	path = packages/leon
+	url = https://github.com/Eve-AI/leon-package.git
+	branch = master
+[submodule "packages/confirmation"]
+	path = packages/confirmation
+	url = https://github.com/Eve-AI/confirmation-package.git
+	branch = master
+[submodule "packages/checker"]
+	path = packages/checker
+	url = https://github.com/Eve-AI/checker-package.git
+	branch = master
+[submodule "packages/greetings"]
+	path = packages/greetings
+	url = https://github.com/Eve-AI/greetings-package.git
+	branch = master
+[submodule "packages/appraisal"]
+	path = packages/appraisal
+	url = https://github.com/Eve-AI/appraisal-package.git
+	branch = master
+[submodule "packages/dialog"]
+	path = packages/dialog
+	url = https://github.com/Eve-AI/dialog-package.git
+	branch = master
+[submodule "packages/trend"]
+	path = packages/trend
+	url = https://github.com/Eve-AI/trend-package.git
+	branch = master
+[submodule "packages/user"]
+	path = packages/user
+	url = https://github.com/Eve-AI/user-package.git
+	branch = master

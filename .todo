@@ -1,0 +1,30 @@
+Eve:
+  Chores: 
+    Rename leon to Eve:
+      ✔ Replace the Hotword model using https://snowboy.kitt.ai/ @done(20-03-07 23:02) To be tested!
+    ✔ Move packages to submodules @started(20-03-08 19:49) @done(20-03-08 20:16) @lasted(27m25s)
+  Features:
+    ✔ Add more small talk @high @done(20-03-07 23:01)
+    ✔ Get the weather @done(20-03-07 23:02)
+    ✔ TodoList @done(20-03-07 23:02)
+    ✔ Speech recognition @done(20-03-07 23:02) To be tested!
+    ☐ Sentiment Analysis (https://github.com/axa-group/nlp.js)
+    ☐ Tinder : find me a match
+    ☐ Face recognition
+    ☐ Home Automation
+    ☐ Google Stuff
+    ☐ Get Time
+    ☐ Set Reminders @started(20-03-08 20:51)
+    ☐ Memorise
+    ☐ Play music
+    ☐ Check for the latest Anime stuff
+  Deployement:
+    ☐ Deploy brain on server
+    ☐ Deploy web client
+    Configure other clients:
+      ☐ Facebook/Messenger
+      ☐ SMS
+      ☐ Twitter
+      ☐ Slack
+      ☐ Mobile app ?
+      ☐ ...
